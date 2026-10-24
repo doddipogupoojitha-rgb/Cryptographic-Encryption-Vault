@@ -1,0 +1,1 @@
+This is sample secret file for vault test - Poojitha Workora Internship
